@@ -21,6 +21,9 @@ Team Hashpool. Distributed file storage platform developed for IEEE madC.
 3. Open a terminal and run **npm install**
 4. Run **npm start**, follow the instructions on the terminal
 
+## Promo video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SfsEL7qdRCU/0.jpg)](https://www.youtube.com/watch?v=SfsEL7qdRCU)
+
 ## Details
 | App File Name | Team Name | Short Description | Licence | Country | Author's Github Profile |
 | ------------- | --------- | ----------------- | ------- | ------- | ----------------------- |
